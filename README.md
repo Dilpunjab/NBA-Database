@@ -1,9 +1,9 @@
 # NBA Project
 
 ## Group Members 
-1. Sanjam Khera (kheras1@myumantioba.ca)
-2. Diljot Singh (singhd18@myumantioba.ca)
-3. Rishavjot Singh (singhr51@myumantioba.ca)
+1. Diljot Singh (singhd18@myumantioba.ca)
+2. Sanjam Khera (kheras1@myumantioba.ca)
+
 
 ## About the Project
 
