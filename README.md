@@ -147,7 +147,7 @@ HomeReferee: Referees who favoured home teams. This is some thing Analysts look 
 MultipleCoaches: Teams coached by multiple coaches in a season. Consistently look up by Analysts.
 
 WhoReferredWhat: Look up query used by analysts.
-[Architecture.pdf](https://github.com/evanmurray99/Worksy/files/12751932/Architecture.pdf)
+![Architecture.pdf](https://github.com/evanmurray99/Worksy/files/12751932/Architecture.pdf)
 
 
 
